@@ -28,12 +28,16 @@ Hay tres tipos dentro de este nivel: bajo nivel, medio nivel, alto nivel.
 ### _Según su forma de ejecución_
 Según su ejecución hay tres tipos de lenguajes: compilados, interpretados y virtuales.
   
-  - Compilados 
-  
   - Interpretados
   
   Los lenguajes interpretrados son aquellos que no están escritos en codigo binario, por lo tanto, necesitan de un interprete para que traduzca a codigo
   binario para que la máquina lo pueda ejecutar. Un ejemplo de lenguaje interpretrado es **PHP**.
+  - Compilados 
+  
+  Los lenguajes compilados a diferencia de los interpretrados, un programa anexo llamado compilador hace la traducción a codigo máquina. Por lo que no se necesita de un programa adicional para ejecutar la instruccion del codigo principal. 
+  - Virtuales
+  
+  
  
 
 ### _Según su paradigma de programación_
