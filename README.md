@@ -19,4 +19,5 @@ Hay tres tipos dentro de este nivel: bajo nivel, medio nivel, alto nivel
   - Alto nivel
   Es el más parecido al lenguaje humano por lo que se necesita un intérprete que traduzca las instrucciones a codigo máquina.
   Ejemplo de este tipo es Java.
+  
   ![codigo_java](https://github.com/alvarojimeenez/lenguajes_programacion/blob/main/codigo_java.png)
