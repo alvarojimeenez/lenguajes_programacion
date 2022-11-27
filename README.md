@@ -23,7 +23,9 @@ Hay tres tipos dentro de este nivel: bajo nivel, medio nivel, alto nivel.
   Es el más parecido al lenguaje humano por lo que se necesita un intérprete que traduzca las instrucciones a codigo máquina.
   Ejemplo de este tipo es **Java**.
   
-  ![codigo_java](https://github.com/alvarojimeenez/lenguajes_programacion/blob/main/codigoJava.png)
+  ![codigo_java](https://github.com/alvarojimeenez/lenguajes_programacion/blob/main/gif_java.gif)
+  
+  ![codigo_java2](https://github.com/alvarojimeenez/lenguajes_programacion/blob/main/gif_java2.gif)
 
 ### _Según su forma de ejecución_
 Según su ejecución hay tres tipos de lenguajes: compilados, interpretados y virtuales.
