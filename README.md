@@ -3,16 +3,16 @@ Los lenguajes de programación se usan para dar instrucciones a una máquina y p
 
 ## _Tipos de lenguaje de progración_
 
-  1. [Según su nivel de abstracción](#según-su-nivel-de-abstracción)
-  2. [Según su forma de ejecución](#según-su-forma-de-ejecución)
-  3. [Segun su paradigma de programación](#según-su-paradigma-de-programación)
+  1. [**Según su nivel de abstracción**](#según-su-nivel-de-abstracción)
+  2. [**Según su forma de ejecución**](#según-su-forma-de-ejecución)
+  3. [**Segun su paradigma de programación**](#según-su-paradigma-de-programación)
   
 ### _Según su nivel de abstracción_
 Hay tres tipos dentro de este nivel: bajo nivel, medio nivel, alto nivel.
 
   - Bajo nivel
   
-  Es el lenguaje codigo máquina, las instrucciones se ejecutan en codigo binario, por lo tanto, las ejecuta directamente el ordenador.
+  Fue el primer lenguaje que se usó. Es el lenguaje codigo máquina, las instrucciones se ejecutan en codigo binario, por lo tanto, las ejecuta directamente el ordenador.
   Como ejemplo de este tipo de lenguaje es **ensamblador**.
   - Medio nivel
   
@@ -34,7 +34,7 @@ Según su ejecución hay tres tipos de lenguajes: compilados, interpretados y vi
   binario para que la máquina lo pueda ejecutar. Un ejemplo de lenguaje interpretrado es **PHP**.
   - Compilados 
   
-  Los lenguajes compilados a diferencia de los interpretrados, un programa anexo llamado compilador hace la traducción a codigo máquina. Por lo que no se necesita de un programa adicional para ejecutar la instruccion del codigo principal. 
+  Los lenguajes compilados a diferencia de los interpretrados, un programa anexo llamado compilador hace la traducción a codigo máquina. Por lo que no se necesita de un programa adicional para ejecutar la instruccion del codigo principal. Un ejemplo de lenguaje compilado es **Go**.
   - Virtuales
   
   
