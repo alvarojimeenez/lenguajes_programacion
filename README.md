@@ -34,6 +34,12 @@ Según su ejecución hay tres tipos de lenguajes: compilados, interpretados y vi
   
   Los lenguajes interpretrados son aquellos que no están escritos en codigo binario, por lo tanto, necesitan de un interprete para que traduzca a codigo
   binario para que la máquina lo pueda ejecutar. Un ejemplo de lenguaje interpretrado es **PHP**.
+  
+  ![codigo_php](https://github.com/alvarojimeenez/lenguajes_programacion/blob/main/gif_php.gif)
+  
+  ![codigo_php2](https://github.com/alvarojimeenez/lenguajes_programacion/blob/main/gif_php2.gif)
+  
+  
   - Compilados 
   
   Los lenguajes compilados a diferencia de los interpretrados, un programa anexo llamado compilador hace la traducción a codigo máquina. Por lo que no se necesita de un programa adicional para ejecutar la instruccion del codigo principal. Un ejemplo de lenguaje compilado es **Go**.
