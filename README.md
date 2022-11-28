@@ -45,8 +45,29 @@ Según su ejecución hay tres tipos de lenguajes: compilados, interpretados y vi
   Los lenguajes compilados a diferencia de los interpretrados, un programa anexo llamado compilador hace la traducción a codigo máquina. Por lo que no se necesita de un programa adicional para ejecutar la instruccion del codigo principal. Un ejemplo de lenguaje compilado es **Go**.
   - Virtuales
   
-  
+  Son lenguajes más portables que los lenguajes compilados puesto que el código que se genera tras la compilación es un código intermedio. Este código puede ser a su vez interpretado por una máquina virtual instalada en cualquier equipo. Ejecución lenta pero versátil en cualquier entorno. 
  
 
 ### _Según su paradigma de programación_
+Según su paradigma hay 6 tipos: imperativos, declarativos, procedimentales, orientados a objeto, funcionales y lógicos. 
+
+  - Imperativos 
+  
+  Es un paradigma de programación de software que utiliza fórmulas que alteran el estado de un programa. Funcionan de tal manera que el código fuente encadena una serie de instrucciones que determina en todo momento lo que el ordenador tiene que hacer. Para gestionar las instrucciones se usan estructuras de control como bucles o estructuras anidadas.
+  - Declarativos
+  
+  Es un lenguaje basado más en las matemáticas y en la lógica de los lenguajes imperativos, más cercanos al razonamiento humano. 
+  - Procedimentales 
+  
+  Esta programación consiste en englobar una serie de instrucciones dentro de un procedimiento o función y llamarlo cada vez que se requiera.
+  - Funcionales 
+  
+  - Orientados a objetos 
+  
+  
+  - Lógicos 
+  
+
+
+
 
