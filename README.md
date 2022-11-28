@@ -57,13 +57,19 @@ Según su paradigma hay 6 tipos: imperativos, declarativos, procedimentales, ori
   - Declarativos
   
   Es un lenguaje basado más en las matemáticas y en la lógica de los lenguajes imperativos, más cercanos al razonamiento humano. 
+  
+  ![codigo_sql](https://github.com/alvarojimeenez/lenguajes_programacion/blob/main/gif_sql.gif)
+  
+  ![codigo_sql2](https://github.com/alvarojimeenez/lenguajes_programacion/blob/main/gif_sql2.gif)
   - Procedimentales 
   
-  Esta programación consiste en englobar una serie de instrucciones dentro de un procedimiento o función y llamarlo cada vez que se requiera.
+  Divide el problema en partes más pequeñas, que serán realizadas por subprogramas que se llaman unas a otras para ser ejecutadas. Ejemplo: **Pascal**
   - Funcionales 
   
+  La tarea se realiza evaluando funciones de manera recursiva. Ejemplo: **Lisp**
   - Orientados a objetos 
   
+  Crean un sistema de clases y objetos siguiendo el ejemplo del mundo real, en el que unos objetos realizan acciones y se comunican con otros objetos
   
   - Lógicos 
   
