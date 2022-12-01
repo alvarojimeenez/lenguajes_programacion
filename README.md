@@ -1,6 +1,8 @@
 # Lenguajes de programación
 Los lenguajes de programación son lenguajes formales que se usan para dar instrucciones a una máquina.
 
+![imagen_principal](https://blog.educacionit.com/wp-content/uploads/2018/09/shutterstock-10338536170938-620x354-01.jpg)
+
 ## _Tipos de lenguaje de programación_
 
   1. [**Según su nivel de abstracción**](#según-su-nivel-de-abstracción)
