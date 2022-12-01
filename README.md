@@ -73,8 +73,3 @@ Según su paradigma hay 6 tipos: imperativos, declarativos, procedimentales, ori
   Es llevado a cabo por objetos, entidades que representan elementos del problema a resolver y tienen atributos y comportamiento. Como pueden ser: **Python**, **Java**, **ADA**.
   - Lógicos 
   Es un tipo de programación que se basa en la lógica de primer orden, es decir, se declaran qué cosas hay que hacer y el motor de ejecución decide cuál es la mejor forma de realizarlas. En la lógica de programación se desarrollan una serie de instrucciones o sentencias en una secuencia determinada para lograr un objetivo concreto. Ejemplos de este lenguaje son: **Prolog** y **JavaScript**.
-  
-
-
-
-
