@@ -14,7 +14,7 @@ Hay tres tipos dentro de este nivel: bajo nivel, medio nivel, alto nivel.
 
   - Bajo nivel
   
-  Fue el primer lenguaje que se usó. Es el lenguaje codigo máquina(operaciones, datos y direcciones), las instrucciones se ejecutan en codigo binario, por lo tanto, las ejecuta directamente el ordenador. El lenguaje **ensamblador** es de bajo nivel y ejecuta de forma sencilla las instrucciones de una máquina
+  Fue el primer lenguaje que se usó. Es el lenguaje codigo máquina(operaciones, datos y direcciones), las instrucciones se ejecutan en codigo binario, por lo tanto, las ejecuta directamente el ordenador. El lenguaje **ensamblador** es de bajo nivel y ejecuta de forma sencilla las instrucciones de una máquina.
   - Medio nivel
   
   Se le llama asi porque puede acceder a posiciones de memoria(caracteristica del bajo nivel) pero a su vez permite dar instrucciones de manera entendible para los humanos(caracteristica del alto nivel).
@@ -64,15 +64,15 @@ Según su paradigma hay 6 tipos: imperativos, declarativos, procedimentales, ori
   ![codigo_sql2](https://github.com/alvarojimeenez/lenguajes_programacion/blob/main/gif_sql2.gif)
   - Procedimentales 
   
-  Divide el problema en partes más pequeñas, que serán realizadas por subprogramas que se llaman unas a otras para ser ejecutadas. Ejemplo: **Pascal**
+  Divide el problema en partes más pequeñas, que serán realizadas por subprogramas que se llaman unas a otras para ser ejecutadas. Ejemplo: **Pascal**.
   - Funcionales 
   
- Los programas se componen de funciones, es decir, implementaciones de comportamiento que reciben un conjunto de datos de entrada y devuelven un valor de salida. Ejemplo: **Lisp**, **Scala**
+ Los programas se componen de funciones, es decir, implementaciones de comportamiento que reciben un conjunto de datos de entrada y devuelven un valor de salida. Ejemplo: **Lisp**, **Scala**.
   - Orientados a objetos 
   
-  Es llevado a cabo por objetos, entidades que representan elementos del problema a resolver y tienen atributos y comportamiento. Como pueden ser: Python, Java, ADA
+  Es llevado a cabo por objetos, entidades que representan elementos del problema a resolver y tienen atributos y comportamiento. Como pueden ser: **Python**, **Java**, **ADA**.
   - Lógicos 
-  Es un tipo de programación que se basa en la lógica de primer orden, es decir, se declaran qué cosas hay que hacer y el motor de ejecución decide cuál es la mejor forma de realizarlas. En la lógica de programación se desarrollan una serie de instrucciones o sentencias en una secuencia determinada para lograr un objetivo concreto. Ejemplos de este lenguaje son: **Prolog** y **JavaScript**
+  Es un tipo de programación que se basa en la lógica de primer orden, es decir, se declaran qué cosas hay que hacer y el motor de ejecución decide cuál es la mejor forma de realizarlas. En la lógica de programación se desarrollan una serie de instrucciones o sentencias en una secuencia determinada para lograr un objetivo concreto. Ejemplos de este lenguaje son: **Prolog** y **JavaScript**.
   
 
 
